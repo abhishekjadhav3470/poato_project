@@ -1,6 +1,6 @@
 ## Potato Disease Classification
 
-Project Overview ->(document)[localhost:8000/predict]
+Project Overview ->
 This project focuses on leveraging Convolutional Neural Networks (CNNs) for the accurate classification of potato diseases. The implementation incorporates FastAPI for creating API endpoints and Postman for streamlined testing during the development process.
 
 ## Tools Used
